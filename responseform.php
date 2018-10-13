@@ -68,7 +68,7 @@ if($_POST["submit"]) {
 <p>If you are interested in learning more about Steamchain, please fill out the following information.  
 <p id="form"></p>
 <div class="well">
-						<form method="post" action="index.php">
+						<form method="post" action="responseform.php">
 							<div class="form-group">
 								<label for="senderName">Name</label>
 								<input type="text" class="form-control" id="senderName" placeholder="Enter your name">

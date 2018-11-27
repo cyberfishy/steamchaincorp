@@ -118,7 +118,6 @@ if($_POST["submit"]) {
 					<p><b>Vision Creates Opportunity:</b>   Steamchain’s vision for 2020 is to have the WTL become the Token of choice by the shipping and logistics industry reducing costs in currency conversion and document flow and increasing transparency in the global shipping lanes of the world through trustworthy business practices, innovative technology applications and a singular focus on the goal of smarter, better, faster global trade. 
 
 <p>If you are interested in learning more about Steamchain, please fill visit the <a href="responseform.php">response form</a>, fill out and send.  
-<p id="form"></p>
 
 <div class="well">
 						

@@ -55,7 +55,7 @@ if($_POST["submit"]) {
 			<div class="container">
 				<ul class="navi">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="txlink.php">TX LINK</a></li>
+					<li><a href="txlink.php">Client Portal Example</a></li>
 					<li><a href="responseform.php">Response Form</a></li>
 				</ul>
 			</div>
